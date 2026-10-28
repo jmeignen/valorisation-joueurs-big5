@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# fichiers trop lourds pour GitHub : à télécharger depuis Kaggle (voir README)
+**/player_valuations.csv
+**/appearances.csv
+**/games.csv
