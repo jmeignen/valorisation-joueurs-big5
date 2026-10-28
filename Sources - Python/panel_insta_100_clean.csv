@@ -1,0 +1,101 @@
+fb_name,fb_position,fb_league,tm_club_name,age_ans,cote_M,star,fb_id,date_insta,followers_insta,ig_followers,tm_nationalite,tranche_age,ecart_log,grand_club
+Aurèle Amenda,D,Bundesliga,Eintracht Frankfurt,22.4,10.0,non,999276,15/09/2026 00:00,"33,8K",33800.0,Switzerland,22-24,-0.20293000463162159,0
+Chrislain Matsima,D,Bundesliga,FC Augsburg,23.6,22.0,non,963198,15/09/2026 00:00,"17,2K",17200.0,France,22-24,0.6062802057073107,0
+Daniel Elfadli,D,Bundesliga,Hamburger SV,28.7,3.0,non,945532,15/09/2026 00:00,28K,28000.0,Libya,25-28,-0.01688099784557906,0
+Louis Oppie,D,Bundesliga,FC St. Pauli,23.6,2.5,non,1137900,15/09/2026 00:00,"11,6K",11600.0,Germany,22-24,-1.4113750237101428,0
+Lukas Kubler,D,Bundesliga,SC Freiburg,33.3,1.5,non,142525,15/09/2026 00:00,"13,1K",13100.0,Germany,33+,-0.6959957309391935,0
+Stefan Bell,D,Bundesliga,1.FSV Mainz 05,34.4,0.6,non,106662,15/09/2026 00:00,"36,8K",36800.0,Germany,33+,-1.215225555679547,0
+Warmed Omari,D,Bundesliga,Hamburger SV,25.7,4.0,non,999030,15/09/2026 00:00,"24,6K",24600.0,Comoros,25-28,-0.24485826340958639,0
+Yukinari Sugawara,D,Bundesliga,SV Werder Bremen,25.5,5.5,non,905347,15/09/2026 00:00,233K,233000.0,Japan,25-28,-0.7802009423012706,0
+Marco Grüll,F,Bundesliga,SV Werder Bremen,27.5,4.0,non,815612,15/09/2026 00:00,"18,1K",18100.0,Austria,25-28,-0.13132636016067423,0
+Rômulo,F,Bundesliga,RB Leipzig,23.9,30.0,non,1133743,15/09/2026 00:00,"78,7K",78700.0,Brazil,22-24,0.08910293993629281,0
+Shuto Machino,F,Bundesliga,Borussia Mönchengladbach,26.3,4.0,non,925910,15/09/2026 00:00,"76,1K",76100.0,Japan,25-28,-0.42219400348975,0
+Finn Dahmen,G,Bundesliga,FC Augsburg,27.8,12.0,non,822564,15/09/2026 00:00,27K,27000.0,Germany,25-28,0.5173187772147365,0
+Eric Martel,M,Bundesliga,1.FC Köln,23.7,8.0,non,988639,15/09/2026 00:00,"26,7K",26700.0,Germany,22-24,-0.5754635730154529,0
+Jobe Bellingham,M,Bundesliga,Borussia Dortmund,20.3,40.0,non,1134083,15/09/2026 00:00,"4,8M",4800000.0,England,16-21,0.7819869016334593,1
+Julian Niehues,M,Bundesliga,1. Fußballclub Heidenheim 1846,24.7,1.5,non,1066042,15/09/2026 00:00,7243,7243.0,Germany,22-24,-1.9062594712736942,0
+Lennart Karl,M,Bundesliga,Bayern Munich,17.9,60.0,non,1861975,15/09/2026 00:00,"1,1M",1100000.0,Germany,16-21,-1.1358158098830522,1
+Leon Goretzka,M,Bundesliga,Bayern Munich,30.9,12.0,non,184661,15/09/2026 00:00,"2,5M",2500000.0,Germany,29-32,0.6886295882034137,1
+Yannik Engelhardt,M,Bundesliga,Borussia Mönchengladbach,24.9,7.0,non,990209,15/09/2026 00:00,"15,8K",15800.0,Germany,22-24,-0.4409309640674568,0
+Alvaro Núñez,D,LaLiga,Celta de Vigo,25.5,4.0,non,1012410,15/09/2026 00:00,1M,1000000.0,Spain,25-28,-0.9323974045857284,0
+Clemens Riedel,D,LaLiga,RCD Espanyol Barcelona,22.5,4.0,non,1129360,15/09/2026 00:00,8435,8435.0,Germany,22-24,-0.7827236878653601,0
+Dávid Hancko,D,LaLiga,Atlético de Madrid,28.1,35.0,non,807771,15/09/2026 00:00,176K,176000.0,Slovakia,25-28,1.7573196967140543,1
+Eray Cömert,D,LaLiga,Valencia CF,27.9,2.5,non,814023,15/09/2026 00:00,"40,4K",40400.0,Switzerland,25-28,-0.7089529428527115,0
+Gerard Martín,D,LaLiga,FC Barcelona,23.8,35.0,non,1094827,15/09/2026 00:00,"1,9M",1900000.0,Spain,22-24,1.3494276218532661,1
+Matteo Ruggeri,D,LaLiga,Atlético de Madrid,23.5,28.0,non,965011,15/09/2026 00:00,171K,171000.0,Italy,22-24,0.5849209690943766,1
+Ronald Araújo,D,LaLiga,FC Barcelona,26.8,20.0,non,925097,15/09/2026 00:00,8M,8000000.0,Uruguay,25-28,1.0076931634040527,1
+Víctor Chust,D,LaLiga,Elche CF,25.8,3.5,non,855831,15/09/2026 00:00,"75,3K",75300.0,Spain,25-28,-0.4934232768046716,0
+Adrian Liso,F,LaLiga,Getafe CF,20.8,3.0,non,1515554,15/09/2026 00:00,"12,5K",12500.0,Spain,16-21,-1.1784872768217767,0
+Kylian Mbappé,F,LaLiga,Real Madrid,27.0,180.0,oui,826643,15/09/2026 00:00,136M,136000000.0,France,25-28,0.46703664993580674,1
+Mateo Joseph,F,LaLiga,RCD Mallorca,22.2,3.5,non,1170693,15/09/2026 00:00,61K,61000.0,Spain,22-24,-1.2297721469304577,0
+Antonio Sivera,G,LaLiga,Deportivo Alavés,29.4,6.0,non,369004,15/09/2026 00:00,"31,3K",31300.0,Spain,29-32,-0.19732899372489676,0
+Augusto Batalla,G,LaLiga,Rayo Vallecano,29.7,6.0,non,358910,15/09/2026 00:00,268K,268000.0,Argentina,29-32,-0.04452755651629836,0
+Batista Mendy,M,LaLiga,Sevilla FC,26.0,7.5,non,859021,15/09/2026 00:00,"65,3K",65300.0,France,25-28,0.2941700964242919,0
+Djibril Sow,M,LaLiga,Sevilla FC,28.9,7.5,non,799054,15/09/2026 00:00,"73,6K",73600.0,Switzerland,25-28,0.1946465286114094,0
+Hugo Sotelo,M,LaLiga,Celta de Vigo,22.0,5.0,non,1120669,15/09/2026 00:00,"13,5K",13500.0,Spain,22-24,-0.9557438568673167,0
+Jude Bellingham,M,LaLiga,Real Madrid,22.5,130.0,oui,991011,15/09/2026 00:00,"56,2M",56200000.0,England,22-24,1.4923593094011984,1
+Marc Aguado,M,LaLiga,Elche CF,25.9,3.5,non,1014595,15/09/2026 00:00,"25,4K",25400.0,Spain,25-28,-0.7723819842752828,0
+Mario Martín,M,LaLiga,Getafe CF,21.8,10.0,non,1154549,15/09/2026 00:00,143K,143000.0,Spain,16-21,-0.32947552499065935,0
+Mikel Jauregizar,M,LaLiga,Athletic Bilbao,22.1,30.0,non,1495844,15/09/2026 00:00,"50,5K",50500.0,Spain,22-24,0.32114877659974184,0
+Abdoulaye Faye,D,Ligue 1,FC Lorient,21.3,4.5,non,1529051,15/09/2026 00:00,"29,2K",29200.0,Senegal,16-21,-0.9035174589112422,0
+Achraf Hakimi,D,Ligue 1,Paris Saint-Germain,27.2,80.0,oui,814594,15/09/2026 00:00,"25,3M",25300000.0,Morocco,25-28,2.2920923914522966,1
+Clinton Mata,D,Ligue 1,Olympique Lyon,33.1,2.5,non,152813,15/09/2026 00:00,85K,85000.0,Angola,33+,0.30066189012756084,0
+Djibril Sidibe,D,Ligue 1,FC Toulouse,33.4,1.0,non,123388,15/09/2026 00:00,404K,404000.0,France,33+,-1.0517439099213952,0
+Igor Silva,D,Ligue 1,FC Lorient,29.4,1.2,non,831246,15/09/2026 00:00,6353,6353.0,Brazil,29-32,-0.8627898451431371,0
+Ousmane Camara,D,Ligue 1,Angers SCO,22.8,8.0,non,1049538,15/09/2026 00:00,"17,9K",17900.0,Mali,22-24,-0.5463689368295785,0
+Rasmus Nicolaisen,D,Ligue 1,FC Toulouse,28.8,5.0,non,798124,15/09/2026 00:00,12K,12000.0,Denmark,25-28,-0.06769371180024741,0
+Matthis Abline,F,Ligue 1,FC Nantes,22.8,20.0,non,999070,15/09/2026 00:00,"44,6K",44600.0,France,22-24,0.23627166307527148,0
+Moses Simon,F,Ligue 1,Paris FC,30.5,7.0,non,330051,15/09/2026 00:00,311K,311000.0,Nigeria,29-32,0.8024760236439779,0
+Pierre-Emerick Aubameyang,F,Ligue 1,Olympique Marseille,36.5,2.5,non,51498,15/09/2026 00:00,"13,2M",13200000.0,Gabon,33+,-0.2944069507630154,0
+Prosper Peter,F,Ligue 1,Angers SCO,18.4,15.0,non,2137784,15/09/2026 00:00,3800,3800.0,France,16-21,-0.6544612167841066,0
+Lukáš Hrádecký,G,Ligue 1,AS Monaco,36.1,1.5,non,15219,15/09/2026 00:00,102K,102000.0,Finland,33+,0.9498660992030654,0
+Mike Penders,G,Ligue 1,RC Strasbourg Alsace,20.4,25.0,non,1149148,15/09/2026 00:00,189K,189000.0,Belgium,16-21,0.11809774388208893,0
+Hakon Arnar Haraldsson,M,Ligue 1,LOSC Lille,22.7,25.0,non,1138804,15/09/2026 00:00,"45,5K",45500.0,Iceland,22-24,-0.42474992675913725,0
+Hicham Boudaoui,M,Ligue 1,OGC Nice,26.3,12.0,non,985923,15/09/2026 00:00,"1,2M",1200000.0,Algeria,25-28,0.5271570512983459,0
+Johann Lepenant,M,Ligue 1,FC Nantes,23.2,7.0,non,963299,15/09/2026 00:00,"53,6K",53600.0,France,22-24,-0.15215228054610996,0
+Timothy Weah,M,Ligue 1,Olympique Marseille,25.9,20.0,non,855810,15/09/2026 00:00,790K,790000.0,United States,25-28,0.8917020456098399,0
+Tyler Morton,M,Ligue 1,Olympique Lyon,23.2,30.0,non,979118,15/09/2026 00:00,324K,324000.0,England,22-24,0.6030936127127333,0
+Adrien Truffert,D,Premier League,AFC Bournemouth,24.1,30.0,non,999028,15/09/2026 00:00,"76,4K",76400.0,France,22-24,-0.5335593058428607,0
+Destiny Udogie,D,Premier League,Tottenham Hotspur,23.1,30.0,non,983572,15/09/2026 00:00,394K,394000.0,Italy,22-24,0.4295468109815843,0
+Jean-Clair Todibo,D,Premier League,West Ham United,26.0,22.0,non,945217,15/09/2026 00:00,657K,657000.0,France,25-28,0.39317338496044485,0
+Kyle Walker,D,Premier League,Burnley FC,35.6,1.5,non,44614,15/09/2026 00:00,"5,1M",5100000.0,England,33+,-1.148296923681725,0
+Maxim De Cuyper,D,Premier League,Brighton & Hove Albion,25.0,22.0,non,997152,15/09/2026 00:00,"86,3K",86300.0,Belgium,25-28,-0.36355398683804907,0
+Murillo,D,Premier League,Nottingham Forest,23.5,50.0,non,1199282,15/09/2026 00:00,693K,693000.0,Brazil,22-24,0.3086528486460587,0
+Quilindschy Hartman,D,Premier League,Burnley FC,24.1,16.0,non,1392044,15/09/2026 00:00,,,Netherlands,22-24,-0.8495445281895186,0
+Reinildo Mandava,D,Premier League,Sunderland AFC,31.9,4.0,non,831424,15/09/2026 00:00,292K,292000.0,Mozambique,29-32,-0.3486076759051837,0
+William Saliba,D,Premier League,Arsenal FC,24.8,100.0,oui,941168,15/09/2026 00:00,"3,1M",3100000.0,France,22-24,1.3007663126854219,1
+Amad Diallo,F,Premier League,Manchester United,23.5,45.0,non,971037,15/09/2026 00:00,"3,1M",3100000.0,Cote d'Ivoire,22-24,0.34363615569993655,1
+Bryan Mbeumo,F,Premier League,Manchester United,26.4,75.0,non,927083,15/09/2026 00:00,"2,4M",2400000.0,Cameroon,25-28,0.5677329853017561,1
+Bukayo Saka,F,Premier League,Arsenal FC,24.3,110.0,oui,934235,15/09/2026 00:00,"8,4M",8400000.0,England,22-24,0.6249037297844708,1
+Erling Haaland,F,Premier League,Manchester City,25.4,200.0,oui,839956,15/09/2026 00:00,"77,1M",77100000.0,Norway,25-28,-0.0850423642013105,1
+Karl Darlow,G,Premier League,Leeds United,35.2,0.2,non,123689,15/09/2026 00:00,236K,236000.0,Wales,33+,-2.981454831082761,0
+Robert Sánchez,G,Premier League,Chelsea FC,28.1,22.0,non,920546,15/09/2026 00:00,689K,689000.0,Spain,25-28,0.05187324791015513,1
+Alex Scott,M,Premier League,AFC Bournemouth,22.4,50.0,non,1104986,15/09/2026 00:00,"2,5M",2500000.0,England,22-24,-0.27577042771158844,0
+Brenden Aaronson,M,Premier League,Leeds United,25.2,22.0,non,973431,15/09/2026 00:00,216K,216000.0,United States,25-28,-0.7357313356894402,0
+Carlos Baleba,M,Premier League,Brighton & Hove Albion,22.0,55.0,non,1199043,15/09/2026 00:00,800K,800000.0,Cameroon,22-24,0.7085365640577912,0
+Declan Rice,M,Premier League,Arsenal FC,27.0,120.0,oui,856714,15/09/2026 00:00,"7,5M",7500000.0,England,25-28,0.9105060859338678,1
+Florian Wirtz,M,Premier League,Liverpool FC,22.7,100.0,oui,1019322,15/09/2026 00:00,"5,2M",5200000.0,Germany,22-24,0.049077705726894294,1
+Joao Palhinha,M,Premier League,Tottenham Hotspur,30.5,15.0,non,364612,15/09/2026 00:00,"1,1M",1100000.0,Portugal,29-32,0.7118805926317648,0
+Nicolás Domínguez,M,Premier League,Nottingham Forest,27.5,15.0,non,871765,15/09/2026 00:00,712K,712000.0,Argentina,25-28,0.6528486214117422,0
+Adam Marusic,D,Serie A,Società Sportiva Lazio S.p.A.,33.2,2.5,non,267619,15/09/2026 00:00,"57,7K",57700.0,Montenegro,33+,-0.31508921534743095,0
+Alberto Moreno,D,Serie A,Como 1907,33.5,1.0,non,229740,15/09/2026 00:00,1M,1000000.0,Spain,33+,-0.4486927790662758,0
+Brooke Norton-Cuffy,D,Serie A,Genoa CFC,22.0,15.0,non,1087514,15/09/2026 00:00,100K,100000.0,England,22-24,-0.4385251454444443,0
+Jhon Lucumí,D,Serie A,Bologna Football Club 1909,27.5,22.0,non,818481,15/09/2026 00:00,273K,273000.0,Colombia,25-28,1.1419751952490262,0
+Mariano Troilo,D,Serie A,Parma Calcio 1913,22.5,10.0,non,1516324,15/09/2026 00:00,"69,2K",69200.0,Argentina,22-24,-0.2642820475698855,0
+Martin Vitík,D,Serie A,Bologna Football Club 1909,22.9,13.0,non,1085913,15/09/2026 00:00,"35,4K",35400.0,Czech Republic,22-24,0.4382580429015128,0
+Nuno Tavares,D,Serie A,Società Sportiva Lazio S.p.A.,25.9,12.0,non,944973,15/09/2026 00:00,360K,360000.0,Portugal,25-28,0.42460813886445514,0
+Yerry Mina,D,Serie A,Cagliari Calcio,31.3,2.5,non,360396,15/09/2026 00:00,"3,3M",3300000.0,Colombia,29-32,-0.22774520380538732,0
+Christian Pulišić,F,Serie A,AC Milan,27.3,40.0,non,817957,15/09/2026 00:00,"7,7M",7700000.0,United States,25-28,0.6065368133196714,1
+Moise Kean,F,Serie A,ACF Fiorentina,25.8,32.0,non,835601,15/09/2026 00:00,"2,6M",2600000.0,Italy,25-28,0.5536166877280735,0
+Rasmus Højlund,F,Serie A,SSC Napoli,22.9,60.0,non,1086417,15/09/2026 00:00,"2,4M",2400000.0,Denmark,22-24,0.6235370157646258,0
+Stefano Moreo,F,Serie A,Pisa Sporting Club,32.5,1.2,non,346948,15/09/2026 00:00,"13,1K",13100.0,Italy,29-32,-0.9870900773345284,0
+Emil Audero,G,Serie A,US Cremonese,29.0,2.8,non,318603,15/09/2026 00:00,"1,1M",1100000.0,Indonesia,29-32,-0.22318996511720357,0
+Michele Di Gregorio,G,Serie A,Juventus FC,28.4,10.0,non,844609,15/09/2026 00:00,233K,233000.0,Italy,25-28,-0.16614602782542676,1
+Adrián Bernabé,M,Serie A,Parma Calcio 1913,24.6,15.0,non,934384,15/09/2026 00:00,"87,5K",87500.0,Spain,22-24,-0.12665252523814274,0
+Gianluca Gaetano,M,Serie A,Cagliari Calcio,25.7,6.5,non,902019,15/09/2026 00:00,161K,161000.0,Italy,25-28,-0.5744760342718074,0
+Henrikh Mkhitaryan,M,Serie A,Inter Milan,36.9,3.0,non,37151,15/09/2026 00:00,"2,5M",2500000.0,Armenia,33+,0.5563689856945739,1
+Kristian Thorstvedt,M,Serie A,US Sassuolo,26.8,12.0,non,924973,15/09/2026 00:00,"79,3K",79300.0,Norway,25-28,-0.06968844518200612,0
+Martín Payero,M,Serie A,US Cremonese,27.3,5.0,non,895592,15/09/2026 00:00,134K,134000.0,Argentina,25-28,-0.019370787650004218,0
+Morten Frendrup,M,Serie A,Genoa CFC,24.7,15.0,non,918440,15/09/2026 00:00,26K,26000.0,Denmark,22-24,0.2950333271122645,0
+Nemanja Matić,M,Serie A,US Sassuolo,37.4,1.6,non,44241,15/09/2026 00:00,"1,6M",1600000.0,Serbia,33+,0.430921821977714,0
+Ylber Ramadani,M,Serie A,US Lecce,29.7,1.8,non,841977,15/09/2026 00:00,"44,4K",44400.0,Albania,29-32,-1.0695024696531519,0

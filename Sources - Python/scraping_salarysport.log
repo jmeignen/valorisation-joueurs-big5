@@ -1,0 +1,28 @@
+2026-10-07 19:11:44 | INFO    | === DÉBUT DU SCRAPING SALARYSPORT ===
+2026-10-07 19:11:45 | WARNING | robots.txt illisible (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>)
+2026-10-07 19:11:45 | INFO    | GET https://salarysport.com/football/contracts-expiring-2026/
+2026-10-07 19:11:45 | INFO    | HTTP 200 | 1 691 175 octets reçus
+2026-10-07 19:11:45 | INFO    | 1 tableau(x) <table> dans la page
+2026-10-07 19:11:45 | INFO    | tableau joueurs trouvé : 1748 lignes, colonnes ['PLAYER', 'WEEKLY', 'YEARLY', 'EXPIRES', 'CLUB', 'LEAGUE', 'AGE', 'POSITION']
+2026-10-07 19:11:47 | INFO    | GET https://salarysport.com/football/contracts-expiring-2027/
+2026-10-07 19:11:47 | INFO    | HTTP 200 | 1 732 007 octets reçus
+2026-10-07 19:11:48 | INFO    | 1 tableau(x) <table> dans la page
+2026-10-07 19:11:48 | INFO    | tableau joueurs trouvé : 1792 lignes, colonnes ['PLAYER', 'WEEKLY', 'YEARLY', 'EXPIRES', 'CLUB', 'LEAGUE', 'AGE', 'POSITION']
+2026-10-07 19:11:50 | INFO    | GET https://salarysport.com/football/contracts-expiring-2028/
+2026-10-07 19:11:50 | INFO    | HTTP 200 | 1 361 513 octets reçus
+2026-10-07 19:11:50 | INFO    | 1 tableau(x) <table> dans la page
+2026-10-07 19:11:51 | INFO    | tableau joueurs trouvé : 1388 lignes, colonnes ['PLAYER', 'WEEKLY', 'YEARLY', 'EXPIRES', 'CLUB', 'LEAGUE', 'AGE', 'POSITION']
+2026-10-07 19:11:53 | INFO    | GET https://salarysport.com/football/contracts-expiring-2029/
+2026-10-07 19:11:53 | INFO    | HTTP 200 | 899 271 octets reçus
+2026-10-07 19:11:53 | INFO    | 1 tableau(x) <table> dans la page
+2026-10-07 19:11:53 | INFO    | tableau joueurs trouvé : 886 lignes, colonnes ['PLAYER', 'WEEKLY', 'YEARLY', 'EXPIRES', 'CLUB', 'LEAGUE', 'AGE', 'POSITION']
+2026-10-07 19:11:55 | INFO    | GET https://salarysport.com/football/contracts-expiring-2030/
+2026-10-07 19:11:55 | INFO    | HTTP 200 | 506 583 octets reçus
+2026-10-07 19:11:55 | INFO    | 1 tableau(x) <table> dans la page
+2026-10-07 19:11:55 | INFO    | tableau joueurs trouvé : 462 lignes, colonnes ['PLAYER', 'WEEKLY', 'YEARLY', 'EXPIRES', 'CLUB', 'LEAGUE', 'AGE', 'POSITION']
+2026-10-07 19:11:57 | INFO    | 6276 lignes au total, toutes ligues
+2026-10-07 19:11:57 | INFO    | 1981 lignes après filtre Big 5
+2026-10-07 19:11:58 | INFO    | salaires illisibles : 0 | dates illisibles : 0
+2026-10-07 19:11:58 | INFO    | doublons joueur + club retirés : 1
+2026-10-07 19:11:58 | INFO    | CSV écrit : salarysport_top5_salaires_contrats.csv (1980 joueurs)
+2026-10-07 19:11:58 | INFO    | === FIN DU SCRAPING ===
