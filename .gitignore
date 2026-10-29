@@ -5,3 +5,9 @@ __pycache__/
 **/player_valuations.csv
 **/appearances.csv
 **/games.csv
+
+# données soumises aux conditions de leurs sources : non republiées (voir CADRE_JURIDIQUE.md)
+Sources - Python/Fbref/
+Sources - Python/Transfermarket/
+Sources - Python/salarysport_top5_salaires_contrats.csv
+Sources - Python/joueurs_salaire.csv

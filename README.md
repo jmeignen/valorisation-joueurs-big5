@@ -31,7 +31,7 @@ Une régression linéaire apprend, sur 1 160 joueurs, **combien le marché paie 
 | Âge | **−17 %** de cote par année |
 | Stats qui comptent | xA (+30 % pour +0,1 par 90 min), buts (+21 %), interceptions (+25 % pour +1 par 90 min) ; les tacles, non |
 | Grand club | **×2,8** à profil égal ; le R² passe de 64 % à 73 % en l'ajoutant |
-| Contrat restant | **+14 % par année**, à âge égal (×0,87 en fin de contrat, ×1,44 à 4 ans) |
+| Contrat restant | **+14 % par année**, à âge égal (×0,87 pour un contrat qui se termine en juin 2026, ×0,97 à 1 an, ×1,44 à 4 ans) |
 | Instagram (panel de 100) | le tiers le plus suivi est à **×1,7** la règle, le moins suivi à **×0,6** |
 
 ![Effet du contrat restant](images/effet_contrat.png)
@@ -125,10 +125,9 @@ Instagram (panel manuel)  ─┘                                   SQL (MySQL) �
 | Fichier | Contenu |
 |---|---|
 | `Sources - Python/valorisation_joueurs.ipynb` | Notebook complet, exécuté, commenté étape par étape |
-| `Sources - Python/Fbref/`, `Sources - Python/Transfermarket/` | Données d'entrée |
-| `Sources - Python/salarysport_top5_salaires_contrats.csv`, `scraping_salarysport.log` | Résultat et journal du scraping (07/10/2026) |
+| `Sources - Python/scraping_salarysport.log` | Journal du scraping SalarySport (07/10/2026) |
 | `Sources - Python/panel_insta_100 .csv` | Panel Instagram brut |
-| `Sources - Python/joueurs_modele.csv`, `joueurs_salaire.csv`, `joueurs_clean.csv` | Résultats exportés par le notebook (pour SQL et Power BI) |
+| `Sources - Python/joueurs_modele.csv`, `joueurs_clean.csv` | Résultats exportés par le notebook (pour SQL et Power BI) |
 | `sql/valorisation.sql` | Script SQL (tables, jointures, classements, médianes) |
 | `powerbi/valorisation_joueurs.pbix` | Rapport Power BI |
 
@@ -136,9 +135,13 @@ Instagram (panel manuel)  ─┘                                   SQL (MySQL) �
 pip install pandas numpy matplotlib seaborn scikit-learn requests beautifulsoup4
 ```
 
-1. Télécharger `player_valuations.csv` depuis le [jeu de données Kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores) (40 Mo, trop lourd pour ce dépôt) et le placer dans `Sources - Python/Transfermarket/`.
+**Les données brutes ne sont pas dans ce dépôt** : les statistiques FBref, les fichiers Transfermarkt et les salaires SalarySport restent soumis aux conditions de leurs sources (voir [CADRE_JURIDIQUE.md](CADRE_JURIDIQUE.md)). Le notebook est publié exécuté : tous les résultats y sont lisibles sans le relancer.
+
+Pour le relancer :
+
+1. Télécharger `players.csv`, `clubs.csv` et `player_valuations.csv` depuis le [jeu de données Kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores) et les placer dans `Sources - Python/Transfermarket/` ; exporter depuis FBref les statistiques 2025-26 des joueurs (`all_player_stats.csv`, `all_player_profiles.csv`) dans `Sources - Python/Fbref/`, en respectant les [conditions de Sports Reference](https://www.sports-reference.com/data_use.html).
 2. Ouvrir `Sources - Python/valorisation_joueurs.ipynb`, puis **Kernel → Restart & Run All**.
-3. `SCRAPER = False` (par défaut) relit le relevé SalarySport du 07/10/2026 ; `True` relance le scraping.
+3. Les salaires SalarySport ne sont pas republiés : sans relevé local, les parties sur le salaire ne se relancent pas (leurs résultats restent visibles dans le notebook exécuté).
 
 ## Cadre juridique
 

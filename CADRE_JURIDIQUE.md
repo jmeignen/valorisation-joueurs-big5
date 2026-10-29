@@ -75,16 +75,17 @@ Les joueurs sont des personnes physiques identifiées. Leur nom, leur âge, leur
 
 - **Le droit sui generis du producteur de bases de données** (directive 96/9/CE ; en France, articles L. 341-1 et suivants du Code de la propriété intellectuelle) protège Transfermarkt, FBref ou SalarySport contre l'extraction ou la réutilisation d'une **partie substantielle** de leur contenu, indépendamment du droit d'auteur.
 - **Transfermarkt** : utilisé via le jeu de données Kaggle *Football Data from Transfermarkt*, publié sous licence CC0. Une licence accordée par celui qui republie ne vaut pas forcément pour les droits du producteur d'origine. D'où le choix de **ne pas republier les fichiers bruts** et de renvoyer vers la source.
-- **FBref / Sports Reference** : conditions d'utilisation à vérifier avant toute republication.
-- **SalarySport** : collecté par scraping de cinq pages publiques, avec des pauses entre les requêtes. Le `robots.txt` n'a pas pu être lu (erreur de certificat) : c'est documenté dans le journal. Les conditions générales du site doivent être vérifiées. Les salaires sont des **estimations publiées par le site**, pas des données contractuelles.
+- **FBref / Sports Reference** : la politique de données de Sports Reference (consultée le 29/10/2026) déconseille de bâtir des outils sur des données scrapées et indique que, pour certains jeux de données, ses licences interdisent toute redistribution ; les faits eux-mêmes restent librement réutilisables. Les fichiers bruts FBref ne sont donc pas republiés.
+- **SalarySport** : collecté par scraping de cinq pages publiques, avec des pauses entre les requêtes. Le `robots.txt` n'a pas pu être lu (erreur de certificat) : c'est documenté dans le journal. Le site ne publie pas de conditions d'utilisation (seulement une politique de confidentialité, vérifié le 29/10/2026) : faute d'autorisation, le relevé complet n'est pas republié. Les salaires sont des **estimations publiées par le site**, pas des données contractuelles.
 
 ### 2.3 Ce qui est publié sur GitHub, et ce qui ne l'est pas
 
 | Publié | Non publié |
 |---|---|
 | Le code (notebooks, SQL) | Les fichiers bruts Transfermarkt (à télécharger sur Kaggle) |
-| Les résultats agrégés et les graphiques | *À décider : le CSV scrapé SalarySport* |
-| Les résultats par joueur nécessaires à la démonstration | Aucune photo de joueur (droit à l'image) |
+| Les résultats agrégés et les graphiques | Les fichiers bruts FBref |
+| Les résultats par joueur nécessaires à la démonstration | Le relevé SalarySport et le fichier des salaires par joueur |
+| | Aucune photo de joueur (droit à l'image) |
 
 **Licences** : le code est publié sous licence MIT (fichier `LICENSE`). Les données restent soumises aux conditions de leurs sources respectives.
 
